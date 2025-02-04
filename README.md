@@ -58,19 +58,4 @@
 </p>
 
 ---
-
-## 📌 Fun Facts  
-- 🔥 I love solving problems on **LeetCode & CodeChef**  
-- 🎯 Passionate about **Backend Development, AI & Cloud Technologies**  
-- ⚡ Fun fact: **I love debugging more than coding 😜**  
-
----
-
-### 🎯 Quote of the Day  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-✨ *"Keep coding, keep growing!"* 🚀  
+ 
