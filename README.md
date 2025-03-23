@@ -52,7 +52,7 @@ Each agent is powered by a large language model (GPT-4) and has access to specif
 
 ```python
 # Install required packages
-!pip install aixplain pandas requests
+!pip install aixplain pandas
 
 # Set up environment
 import os
